@@ -1,7 +1,7 @@
 ## Introduction
 
 
-<b>Discipline | <b>IT
+<b>Discipline | <b>INFORMATION TECHNOLOGY
 :--|:--|
 <b> Lab | <b> Performance Analysis of Optical Amplifiers (EDFA)
 Experiment 1: Performance Analysis of Erbium-Doped Fiber Amplifier (EDFA)    
